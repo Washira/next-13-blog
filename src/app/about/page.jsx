@@ -1,8 +1,9 @@
 import React from 'react'
+import styles from './about.module.scss'
 
 const About = () => {
   return (
-    <div>About</div>
+    <div className={styles.bg}>About</div>
   )
 }
 

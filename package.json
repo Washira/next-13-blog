@@ -1,5 +1,5 @@
 {
-  "name": "next-js-blog",
+  "name": "next-13-blog",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -14,5 +14,8 @@
     "next": "13.4.9",
     "react": "18.2.0",
     "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "sass": "^1.63.6"
   }
 }
